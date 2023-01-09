@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "632881817620",
+    "project_id": "mamamoni-app",
+    "storage_bucket": "mamamoni-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632881817620:android:ce498657fbaa064b429f01",
+        "android_client_info": {
+          "package_name": "com.mama.moni.mamamoni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632881817620-en2mrjnj6uhu7j6n2ok085j2t1m7k4dr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlyqP7pFOl13pZASOD05clM56XKUprgQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632881817620-en2mrjnj6uhu7j6n2ok085j2t1m7k4dr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
